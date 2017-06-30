@@ -5,5 +5,10 @@
 </head>
 <body>
 <h1>news</h1>
+<?php
+	
+	echo "sung đã viết dòng này";
+
+?>
 </body>
 </html>
